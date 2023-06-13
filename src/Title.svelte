@@ -49,8 +49,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    font-size: 8em;
+    height: 98vh;
+    font-size: 5em;
     font-family: 'Roboto', sans-serif;
     transition: all 1s ease;
     text-align: center;
