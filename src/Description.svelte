@@ -60,14 +60,14 @@
     }
   
     .bigLogo {
-      font-size: 4em;
+      font-size: 5em;  /* increased from 4em */
       font-weight: bold;
       color: #f44336;
       margin: 0.1em;
     }
   
     .smallLogo {
-      font-size: 0.8em;
+      font-size: 1em;  /* increased from 0.8em */
       color: #ff5722;
       align-self: flex-end;
       margin: 0.1em;
@@ -78,15 +78,16 @@
     }
   
     .description h1 {
-      font-size: 2em;
+      font-size: 2.5em;  /* increased from 2em */
       color: #f44336;
       border-bottom: 2px solid #f44336;
       padding-bottom: 0.5em;
     }
   
     .description p {
-      font-size: 1em;
+      font-size: 1.2em;  /* increased from 1em */
       color: #333;
       text-align: justify;
     }
   </style>
+  
