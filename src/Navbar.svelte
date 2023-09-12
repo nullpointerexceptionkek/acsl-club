@@ -10,16 +10,7 @@
   <nav class="navbar">
     <ul>
       <li>
-        <button on:click={() => scrollTo('discover-acsl')}>Discover ACSL</button>
-      </li>
-      <li>
-        <button on:click={() => scrollTo('introducing-acsl-club')}>Introducing ACSL Club</button>
-      </li>
-      <li>
-        <button on:click={() => scrollTo('our-activities')}>Our Activities</button>
-      </li>
-      <li>
-        <button on:click={() => scrollTo('time-commitment')}>Time Commitment</button>
+        <button on:click={() => scrollTo('discover-acsl')}>About us</button>
       </li>
     </ul>
   </nav>

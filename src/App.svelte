@@ -3,6 +3,7 @@
   import ScrollDown from "./ScrollDown.svelte";
   import Navbar from "./Navbar.svelte";
   import Description from "./Description.svelte";
+  import WhatWeDo from "./WhatWeDo.svelte";
 </script>
 
 <main class="app-container">
@@ -10,6 +11,7 @@
   <Title />
   <ScrollDown />
   <Description id="description" />
+  <WhatWeDo/>
 </main>
 
 <style lang="scss">
